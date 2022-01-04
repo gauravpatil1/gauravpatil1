@@ -1,8 +1,8 @@
 ### Hi there, I'm Gaurav 👋
 
-## I'm Sr. Project Technical Assistant at IIT Bombay
+## I'm Project Software Engineer at IIT Bombay
 - 🔭 I’m currently working on [Indian Culture][ic_app_playstore] as Application Developer.
-- 🌱 I’m currently learning <img alt="Visual Studio Code" width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> <img alt="Visual Studio Code" width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> 
+- 🌱 I’m currently learning <img alt="Kotlin" width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> <img alt="Flutter" width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> 
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I love to 🖍️, 🎮, ♟️ & 🏀
 
